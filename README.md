@@ -16,15 +16,13 @@ Assembly: Endgame is an engaging and interactive word-guessing game built with R
 
 📸 Screenshots
 
-<img width="705" height="784" alt="image" src="https://github.com/user-attachments/assets/fa1f42a5-aeda-4b21-8aa4-5103fac236d6" />
+<img width="705" height="784" alt="Screenshot 2025-09-15 201353" src="https://github.com/user-attachments/assets/c0f6c53b-d032-46b3-92c1-0283424d4009" />
 
-<img width="626" height="736" alt="image" src="https://github.com/user-attachments/assets/91920856-bc55-405e-9654-6aa38b660053" />
+<img width="626" height="736" alt="Screenshot 2025-09-15 201423" src="https://github.com/user-attachments/assets/5f8acf06-8e82-479c-9139-79b794dd5211" />
 
-<img width="574" height="694" alt="image" src="https://github.com/user-attachments/assets/6573dc39-74f1-4d87-be86-064a72e78879" />
+<img width="574" height="694" alt="Screenshot 2025-09-15 201450" src="https://github.com/user-attachments/assets/16081b10-ba65-4a13-b825-bb0381adf371" />
 
-<img width="608" height="721" alt="image" src="https://github.com/user-attachments/assets/3e36e06b-24ae-4a1b-a727-a42f17494960" />
-
-
+<img width="608" height="721" alt="Screenshot 2025-09-15 201538" src="https://github.com/user-attachments/assets/cea29744-3b30-4b0a-ae77-ae06e3a44945" />
 
 
 
