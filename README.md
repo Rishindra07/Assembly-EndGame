@@ -65,22 +65,39 @@ npm run dev
 
 Open the browser at the displayed URL (usually http://localhost:5173).
 
+
 📁 Project Structure
+
+
 assembly-endgame/
-├── node_modules/
-├── public/
-├── src/
-│   ├── App.jsx
-│   ├── index.js
-│   ├── languages.js
-│   ├── utils.js
-│   ├── words.js
-│   └── styles.css
-├── .gitignore
-├── index.html
-├── package.json
-├── README.md
-└── vite.config.js
+
+    ├── node_modules/
+    
+    ├── public/
+    
+    ├── src/
+    
+    │   ├── App.jsx
+    
+    │   ├── index.js
+    
+    │   ├── languages.js
+    
+    │   ├── utils.js
+    
+    │   ├── words.js
+    
+    │   └── styles.css
+    
+    ├── .gitignore
+    
+    ├── index.html
+    
+    ├── package.json
+    
+    ├── README.md
+    
+    └── vite.config.js
 
 🔧 How to Play
 
